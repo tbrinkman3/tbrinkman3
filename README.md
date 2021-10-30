@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webdevbrinkman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-m-brinkman/)
 
-- I love developing applications that connects people to powerful technologies!
+- I love developing applications that connect people to powerful technologies!
 - Based in Dallas, TX
 
 
